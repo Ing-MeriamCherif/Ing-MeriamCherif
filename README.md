@@ -1,16 +1,57 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ing-MeriamCherif/Ing-MeriamCherif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Meriam Cherif
 
-Here are some ideas to get you started:
+### Software Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 From Tunisia 🇹🇳
+
+</div>
+
+---
+
+```bash
+MeriamCherif@github:~$ echo "Future Software Engineer"
+```
+
+### 🚀 About Me
+
+- 🎓 Software Engineering Student
+ 🤖 AI & Machine Learning Enthusiast
+- 🌐 Full-Stack Developer
+- 🧠 Interested in Computer Vision, LLMs, and Intelligent Systems
+- 🚀 Building AI-powered and scalable web applications
+-💡 Open to Internship Opportunities
+
+## 🤖 AI, Machine Learning & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+## 🧠 AI Agents, LLMs & Computer Vision
+
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv,huggingface,roboflow,mediapipe,yolo" />
+</p>
+
+
+## 🌐 Full-Stack Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,nestjs,tailwind,spring,bootstrap" />
+</p>
+
+##  Databases & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git" />
+</p>
+
+### 📫 Contact
+
+* LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/meriam-cherif-83263433a/)
+* Email: [your.email@example.com](meriam.cherif2005@gmail.com)
+)
+
+</div>
