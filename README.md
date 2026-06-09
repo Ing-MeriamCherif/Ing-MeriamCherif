@@ -10,7 +10,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=C084FC&background=0D1117&center=true&vCenter=true&width=620&lines=echo+'Hello+I+am+Meriam+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB';git+commit+-m+'talk+is+cheap+show+me+the+code)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=C084FC&background=0D1117&center=true&vCenter=true&width=620&lines=echo+'Hello+I+am+Meriam+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB';git+commit+-m+'talk+is+cheap+show+me+the+code')
 
 
 ### 🚀 About Me
@@ -50,7 +50,7 @@
 ### 📫 Contact
 
 * LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/meriam-cherif-83263433a/)
-* Email: [your.email@example.com](meriam.cherif2005@gmail.com)
+* Email: (meriam.cherif2005@gmail.com)
 )
 
 </div>
