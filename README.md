@@ -32,6 +32,15 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=opencv,huggingface,roboflow,mediapipe,yolo" />
+ <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="50" alt="Hugging Face" />
+ 
+  <img src="https://cdn.simpleicons.org/yolo/111111" height="50" alt="YOLO" />
+  
+  <img src="https://cdn.simpleicons.org/roboflow/6706CE" height="50" alt="Roboflow" />
+
+  <img src="https://cdn.simpleicons.org/ollama/000000" height="50" alt="Ollama" />
+  <img src="https://cdn.simpleicons.org/mediapipe/0097A7" height="50" alt="MediaPipe" />
+</p>
 </p>
 
 
