@@ -31,7 +31,7 @@
 ## 🧠 AI Agents, LLMs & Computer Vision
 
 <p>
-  <img src="https://skillicons.dev/icons?i=opencv,huggingface,roboflow,mediapipe,yolo" />
+  <img src="https://skillicons.dev/icons?i=opencv" />
  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="50" alt="Hugging Face" />
  
   <img src="https://cdn.simpleicons.org/yolo/111111" height="50" alt="YOLO" />
@@ -48,6 +48,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,nestjs,tailwind,spring,bootstrap" />
+ <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="JavaScript" />
 </p>
 
 ##  Databases & DevOps
