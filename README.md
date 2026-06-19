@@ -54,7 +54,8 @@
 ##  Databases & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,git" />
+ <img src="https://cdn.simpleicons.org/mysql/4479A1/FFFFFF" height="50" alt="MySQL" />
 </p>
 
 ### 📫 Contact
