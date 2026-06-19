@@ -41,7 +41,9 @@
   <span style="background:#ffffff;padding:8px;border-radius:8px;display:inline-block;">
   <img src="https://cdn.simpleicons.org/yolo/111111" height="50" alt="YOLO" />
 </span>
+<img src="https://cdn.simpleicons.org/yolo/111111/FFFFFF" height="50" alt="YOLO" />
 
+<img src="https://cdn.simpleicons.org/ollama/000000/FFFFFF" height="50" alt="Ollama" />
 <span style="background:#ffffff;padding:8px;border-radius:8px;display:inline-block;">
   <img src="https://cdn.simpleicons.org/ollama/000000" height="50" alt="Ollama" />
 </span>
