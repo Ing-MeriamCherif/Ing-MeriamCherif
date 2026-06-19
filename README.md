@@ -34,12 +34,17 @@
   <img src="https://skillicons.dev/icons?i=opencv" />
  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="50" alt="Hugging Face" />
  
-  <img src="https://cdn.simpleicons.org/yolo/111111" height="50" alt="YOLO" />
   
   <img src="https://cdn.simpleicons.org/roboflow/6706CE" height="50" alt="Roboflow" />
 
-  <img src="https://cdn.simpleicons.org/ollama/000000" height="50" alt="Ollama" />
   <img src="https://cdn.simpleicons.org/mediapipe/0097A7" height="50" alt="MediaPipe" />
+  <span style="background:#ffffff;padding:8px;border-radius:8px;display:inline-block;">
+  <img src="https://cdn.simpleicons.org/yolo/111111" height="50" alt="YOLO" />
+</span>
+
+<span style="background:#ffffff;padding:8px;border-radius:8px;display:inline-block;">
+  <img src="https://cdn.simpleicons.org/ollama/000000" height="50" alt="Ollama" />
+</span>
 </p>
 </p>
 
