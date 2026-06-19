@@ -49,6 +49,9 @@
 <p>
   <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,nestjs,tailwind,spring,bootstrap" />
  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="JavaScript" />
+ <img src="https://cdn.simpleicons.org/php/777BB4/FFFFFF" height="50" alt="PHP" />
+
+<img src="https://cdn.simpleicons.org/symfony/000000/FFFFFF" height="50" alt="Symfony" />
 </p>
 
 ##  Databases & DevOps
